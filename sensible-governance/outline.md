@@ -32,19 +32,20 @@ right. Separation of church and state protects both, and is a good thing.
 
 Like religion, they can't all be right. More importantly, they present glittering abstractions more beautiful or
 intriguing than the reality with which we must grapple and serve to obscure important truths by holding particular
-ideas to be inviolate. Ideology makes people keep doing things empirically don't work and to stop doing things that
-empirically do work. A certain amount of ideology is unavoidable. (See [Article of Faith](#article-of-faith).)
+ideas to be inviolate. Ideology makes people keep doing things that empirically don't work and makes people stop doing
+things that empirically do work.
+
+A certain amount of ideology is unavoidable. (See [Article of Faith](#article-of-faith).)
 
 ## Freedom of Speech
 
-The freedom to criticize the government and speak truth to power is essential for any functioning democracy. The
-ability to flood the public sphere with complete fabrications designed to divide people and convince them to act
-against their own best interest is extremely dangerous to the project of democracy and needs to be seriously addressed
-as a crime.
+The freedom to criticize the government and speak truth to power is essential for any functioning democracy.
+Disinformation designed to divide people and convince them to act against their own best interest is extremely
+dangerous to the project of democracy and needs to be seriously addressed as a crime.
 
 ## Material Freedom
 
-Safety, property, freedom all have a material basis. People must be fed, housed, clothed, etc... before they can be
+Safety, prosperity, freedom all have a material basis. People must be fed, housed, clothed, etc... before they can be
 free participants in a robust democracy.
 
 ## Capitalism
@@ -73,3 +74,10 @@ for safety, prosperity, and freedom.
 An example of a pragmatic solution to (or, at least, mitigation of) the problems of capitalism: new deal tax policies.
 Over time approach can be refined to account for technological and other changes that impact working, or from insights
 gained in earlier iterations.
+
+##  Metrics
+
+Most contemporary economic metrics measure how well the economy is doing from the standpoint of the wealthy business
+owning class. This is how you end up with an economy that by all published measures is booming, but working people find
+their spending power decreasing, more people are getting pushed out of homes, etc... We need new metrics that measure
+how well everyone is being served and then we need to optimize for those.
